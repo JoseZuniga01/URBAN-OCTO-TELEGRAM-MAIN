@@ -16,3 +16,5 @@ made ure there was a proper title that was consice and explained the web page
 
 made sure the CSS file was consoidated and it followed the same logical structure 
 properly commented on the CSS file to make it easily readable 
+
+View changes here: https://josezuniga01.github.io/URBAN-OCTO-TELEGRAM-MAIN/ 
